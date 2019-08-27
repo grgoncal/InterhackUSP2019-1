@@ -13,4 +13,5 @@ Our project has placed 2º on Hackathon USP 2019.
 * Gustavo Pedralino de Oliveira, gpedralino@gmail.com
 
 ## License:
+
 This project is licenced under the MIT Licence.
