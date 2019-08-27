@@ -1,0 +1,19 @@
+.items-bg{
+    height: 90vh;
+    width: auto;
+    border-radius: 0px !important;
+    background-color: #f2f3f4 !important;
+}
+
+.item{
+    margin: 2%;
+    padding: 2%;
+    line-height: 1.5;
+}
+
+.id{
+    color: blue;
+}
+.id:hover{
+    cursor: pointer;
+}

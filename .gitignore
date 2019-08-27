@@ -1,0 +1,17 @@
+*
+!/**/
+!*.*
+node_modules/
+build/
+obj/
+Debug/
+bin/
+.vs
+.gradle
+.idea
+*.exe
+**/resources/signing
+# Cordova - platforms
+platforms
+plugins
+android

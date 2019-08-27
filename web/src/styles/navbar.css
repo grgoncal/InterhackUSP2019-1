@@ -1,0 +1,26 @@
+.navbar{
+    height: 10vh;
+    background-color: #1094ab !important;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.content{
+    margin-top: 1vh;
+}
+
+.title{
+    font-size: 2rem !important;
+}
+
+.notification{
+    position: absolute;
+}
+
+.MuiPaper-root.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-rounded{
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    padding-top: 60px;
+    text-align: center;
+}
